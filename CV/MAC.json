@@ -1,0 +1,247 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Andrés Baamonde Lozano",
+      "surnames": "mandrewcito",
+      "title": "Full Stack at Balidea",
+      "description": "A guy that enjoys coding on his free time, OSS advocate.  I have been full stack developer around 6 years. Frontend is not my main \"role\" but i can craft a website without problems if i have a mock made by a designer, i am very bad choosing colours :(.  Making components to SPAs is really funny, i think that im good doing that.\n\nI´m very comfortable coding back end and i was part of a lot of research projects, i like to solve \"funny\" problems.\n\nI almost forget this, i like a lot doing sysadmin things, playing with routers, OSS and these stuff. But i don´t want this as my full time job.",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/95980185-49ae-48e9-b5b9-47932da8cf33_eornz.jpg"
+      },
+      "location": {
+        "notes": "A Coruña, Galicia, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/mandrewcito"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/6228583/mandrewcito"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/mandrewcito"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/anbaalo/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Sports",
+        "fact": "Having fun skateboarding since 15 and basketball lover."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Balidea Consulting",
+          "image": {
+            "alt": "Balidea Consulting",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/454f478c-a0c9-48c1-b733-fde3ea3ace19_n4jm2.png"
+          },
+          "URL": "http://www.balidea.com"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2016-03-01",
+            "challenges": [
+              {
+                "description": "In a normal day, i use a lot of technologies but i only cite these 3 because are the main. I currently develop web and desktop apps. And also a self product of my company"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "signalrcore",
+          "description": "Signalr core python client",
+          "URL": "https://github.com/mandrewcito/signalrcore"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-01-01",
+            "competences": [
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Python - Score: 222/300",
+          "image": {
+            "alt": "Title: Python - Score: 222/300",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/490939a8-f596-4746-b4a7-d35a595358d7_cuvhv.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2018-08-01",
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Data Science Master´s Degree",
+        "startDate": "2021-02-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "PHP Zend 5.3",
+        "startDate": "2012-09-01",
+        "finishDate": "2012-09-30",
+        "institution": {
+          "name": "PHP Zend 5.3"
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Sience",
+        "startDate": "2011-01-01",
+        "finishDate": "2016-01-01",
+        "institution": {
+          "name": "UDC"
+        },
+        "linkedCompetences": [
+          {
+            "name": "computer-vision",
+            "type": "technology"
+          },
+          {
+            "name": "software-engineering",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/anbaalo/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/6228583/mandrewcito"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        },
+        {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
