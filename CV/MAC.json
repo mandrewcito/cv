@@ -232,6 +232,10 @@
           "type": "technology"
         },
         {
+          "name": "Keras",
+          "type": "technology"
+        },
+        {
           "name": "Kubernetes",
           "type": "technology"
         },
@@ -240,7 +244,15 @@
           "type": "technology"
         },
         {
+          "name": "OpenCV",
+          "type": "technology"
+        },
+        {
           "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
           "type": "technology"
         }
       ],
