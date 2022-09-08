@@ -105,7 +105,7 @@
           "name": "Balidea Consulting",
           "image": {
             "alt": "balidea logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/d2022902-3d5e-49cb-b853-a3ebb70dd6e8_balidea-logo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/218cea1c-e398-4e2e-b902-8c0f233ba2fa_balidea-logo.jpg"
           },
           "URL": "http://www.balidea.com"
         },
@@ -121,7 +121,19 @@
             ],
             "competences": [
               {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
                 "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
                 "type": "technology"
               },
               {
@@ -130,6 +142,10 @@
               },
               {
                 "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
                 "type": "technology"
               }
             ]
