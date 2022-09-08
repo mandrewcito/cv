@@ -104,8 +104,8 @@
         "organization": {
           "name": "Balidea Consulting",
           "image": {
-            "alt": "Balidea Consulting",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/454f478c-a0c9-48c1-b733-fde3ea3ace19_n4jm2.png"
+            "alt": "dtbird_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/470a8b94-381b-4d73-b8ae-b9e5222d63f9_dtbird_logo.png"
           },
           "URL": "http://www.balidea.com"
         },
@@ -113,6 +113,7 @@
           {
             "name": "Full Stack Developer",
             "startDate": "2016-03-01",
+            "finishDate": "2022-02-01",
             "challenges": [
               {
                 "description": "In a normal day, i use a lot of technologies but i only cite these 3 because are the main. I currently develop web and desktop apps. And also a self product of my company"
