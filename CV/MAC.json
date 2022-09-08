@@ -50,13 +50,13 @@
           "name": "DTBird&DTBat",
           "image": {
             "alt": "dtbird_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/f509c385-4306-4661-82b0-99463f0ea24d_dtbird_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/ea76e39f-54b3-4cf1-9e6b-1088210ccb7e_dtbird_logo.png"
           },
           "URL": "https://dtbird.com/"
         },
         "roles": [
           {
-            "name": "Research",
+            "name": "Researcher",
             "startDate": "2022-03-01",
             "challenges": [
               {
