@@ -15,7 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/95980185-49ae-48e9-b5b9-47932da8cf33_eornz.jpg"
       },
       "location": {
-        "notes": "A Coruña, Galicia, ES"
+        "notes": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -152,6 +152,36 @@
       {
         "skill": {
           "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Keras",
           "type": "technology"
         }
       }
