@@ -192,6 +192,36 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Plus 42SL"
+        },
+        "roles": [
+          {
+            "name": "Scholar ",
+            "startDate": "2015-02-01",
+            "finishDate": "2015-08-01",
+            "competences": [
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
