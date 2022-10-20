@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/95980185-49ae-48e9-b5b9-47932da8cf33_eornz.jpg"
       },
       "location": {
-        "notes": "La Coruña"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -154,6 +156,37 @@
               },
               {
                 "name": "SVN",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tecnocom"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-08-01",
+            "finishDate": "2016-03-01",
+            "challenges": [
+              {
+                "description": "Sotware developer at Abanca"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
                 "type": "technology"
               }
             ]
@@ -375,6 +408,11 @@
           "name": "Cobol",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Full-stack Developer",
+        "Machine Learning Engineer",
+        "Software Architect"
       ]
     }
   }
