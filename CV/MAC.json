@@ -195,13 +195,18 @@
       },
       {
         "organization": {
-          "name": "Plus 42SL"
+          "name": "Plus 42 S.L."
         },
         "roles": [
           {
-            "name": "Scholar ",
+            "name": "Developer",
             "startDate": "2015-02-01",
             "finishDate": "2015-08-01",
+            "challenges": [
+              {
+                "description": "Scolarhip(FEUGA)"
+              }
+            ],
             "competences": [
               {
                 "name": "Hibernate",
