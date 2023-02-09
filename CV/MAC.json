@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Andrés Baamonde Lozano",
       "surnames": "mandrewcito",
-      "title": "Full Stack at Balidea",
+      "title": "ML/MLOps at DTBird&DTBat",
       "description": "A guy that enjoys coding on his free time, OSS advocate.  I have been full stack developer around 6 years. Frontend is not my main \"role\" but i can craft a website without problems if i have a mock made by a designer, i am very bad choosing colours :(.  Making components to SPAs is really funny, i think that im good doing that.\n\nI´m very comfortable coding back end and i was part of a lot of research projects, i like to solve \"funny\" problems.\n\nI almost forget this, i like a lot doing sysadmin things, playing with routers, OSS and these stuff. But i don´t want this as my full time job.",
       "avatar": {
         "alt": "profile-image",
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña"
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -259,6 +260,7 @@
       {
         "details": {
           "name": "Python - Score: 222/300",
+          "description": "",
           "image": {
             "alt": "Title: Python - Score: 222/300",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/490939a8-f596-4746-b4a7-d35a595358d7_cuvhv.png"
@@ -278,10 +280,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -341,7 +345,8 @@
         "name": "Data Science Master´s Degree",
         "startDate": "2021-02-01",
         "institution": {
-          "name": "Universitat Oberta de Catalunya"
+          "name": "Universitat Oberta de Catalunya",
+          "description": ""
         }
       },
       {
@@ -351,7 +356,8 @@
         "startDate": "2012-09-01",
         "finishDate": "2012-09-30",
         "institution": {
-          "name": "PHP Zend 5.3"
+          "name": "PHP Zend 5.3",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -367,7 +373,9 @@
         "startDate": "2011-01-01",
         "finishDate": "2016-01-01",
         "institution": {
-          "name": "UDC"
+          "name": "UDC",
+          "description": "",
+          "URL": ""
         },
         "linkedCompetences": [
           {
@@ -449,6 +457,7 @@
         "Machine Learning Engineer",
         "Software Architect"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
