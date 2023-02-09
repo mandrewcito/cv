@@ -372,22 +372,12 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Computer Sience",
+        "name": "Computer science degree: computing speciality",
         "startDate": "2011-01-01",
         "finishDate": "2016-01-01",
         "institution": {
-          "name": "UDC"
-        },
-        "linkedCompetences": [
-          {
-            "name": "computer-vision",
-            "type": "technology"
-          },
-          {
-            "name": "software-engineering",
-            "type": "technology"
-          }
-        ]
+          "name": "Universidade de A Coruña (UDC)"
+        }
       }
     ]
   },
