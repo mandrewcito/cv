@@ -284,12 +284,16 @@
   "knowledge": {
     "languages": [
       {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
         "name": "Galician",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
