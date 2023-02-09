@@ -345,6 +345,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scrum master",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "Scrum manager",
+          "URL": "https://scrummanager.com/website/c/profile/member.php?id=24215"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Higher Technical Certificate system administrator",
