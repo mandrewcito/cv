@@ -370,7 +370,8 @@
         "startDate": "2012-09-01",
         "finishDate": "2012-09-30",
         "institution": {
-          "name": "PHP Zend 5.3"
+          "name": "PHP Zend 5.3",
+          "URL": "http://www.zend.com/en/yellow-pages/ZEND020787"
         },
         "linkedCompetences": [
           {
