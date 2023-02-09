@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,10 +17,15 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña"
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://dev.to/mandrewcito/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/mandrewcito"
@@ -259,6 +264,7 @@
       {
         "details": {
           "name": "Python - Score: 222/300",
+          "description": "",
           "image": {
             "alt": "Title: Python - Score: 222/300",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/490939a8-f596-4746-b4a7-d35a595358d7_cuvhv.png"
@@ -278,10 +284,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -341,7 +349,8 @@
         "name": "Data Science Master´s Degree",
         "startDate": "2021-02-01",
         "institution": {
-          "name": "Universitat Oberta de Catalunya"
+          "name": "Universitat Oberta de Catalunya",
+          "description": ""
         }
       },
       {
@@ -351,6 +360,7 @@
         "startDate": "2018-09-01",
         "institution": {
           "name": "Scrum manager",
+          "description": "",
           "URL": "https://scrummanager.com/website/c/profile/member.php?id=24215"
         }
       },
@@ -360,7 +370,8 @@
         "name": "Higher Technical Certificate system administrator",
         "startDate": "2009-09-01",
         "institution": {
-          "name": " Fernando Wirtz SuarezFernando Wirtz Suarez"
+          "name": " Fernando Wirtz SuarezFernando Wirtz Suarez",
+          "description": ""
         }
       },
       {
@@ -371,6 +382,7 @@
         "finishDate": "2012-09-30",
         "institution": {
           "name": "Zend by perforce",
+          "description": "",
           "URL": "http://www.zend.com/en/yellow-pages/ZEND020787"
         },
         "linkedCompetences": [
@@ -387,7 +399,8 @@
         "startDate": "2011-01-01",
         "finishDate": "2016-01-01",
         "institution": {
-          "name": "Universidade de A Coruña (UDC)"
+          "name": "Universidade de A Coruña (UDC)",
+          "description": ""
         }
       }
     ]
@@ -459,6 +472,7 @@
         "Machine Learning Engineer",
         "Software Architect"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
