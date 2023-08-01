@@ -497,6 +497,12 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "My ideal job would be a job related with software architecture and machine learning these are my two favourite topics on computer science. Solve problems and start an project architecture from scratch are the funnier job things for me.",
     "projects": [
       {
