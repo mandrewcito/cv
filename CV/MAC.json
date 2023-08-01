@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,41 +11,27 @@
       "title": "ML/MLOps at DTBird&DTBat",
       "description": "Desarrollador de software que le gusta bastante la marcha. Suelo \"cacharrear\" bastante en mi tiempo libre.\n\nEn mi experiencia en consultoría toqué un sinfín de proyectos y tecnologías.\n\nAhora mismo estoy en investigación en una consultora energética desarrollando herramientas/algoritmos de ML para reconocimiento de aves. Todo un poco de todo realmente, desde el pipeline de CI a la elaboración de la CNN o el diseño de la herramienta para obtener feedback de los sistemas de ML el producción.\n\n",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/95980185-49ae-48e9-b5b9-47932da8cf33_eornz.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/95980185-49ae-48e9-b5b9-47932da8cf33_eornz.jpg",
+        "alt": "profile-image"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
         "country": "España",
         "region": "Galicia",
         "municipality": "La Coruña"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://dev.to/mandrewcito/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/mandrewcito"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/6228583/mandrewcito"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/mandrewcito"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/anbaalo/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Sports",
         "fact": "Having fun skateboarding since 15 and basketball lover."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://dev.to/mandrewcito/",
+        "description": "Dev blog"
       }
     ]
   },
@@ -55,8 +41,8 @@
         "organization": {
           "name": "DTBird&DTBat",
           "image": {
-            "alt": "dtbird_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/740c2570-1b0b-481b-922f-3c006d400460_dtbird_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/740c2570-1b0b-481b-922f-3c006d400460_dtbird_logo.png",
+            "alt": "dtbird_logo.png"
           },
           "URL": "https://dtbird.com/"
         },
@@ -118,8 +104,8 @@
         "organization": {
           "name": "Balidea Consulting",
           "image": {
-            "alt": "balidea logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/218cea1c-e398-4e2e-b902-8c0f233ba2fa_balidea-logo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/08/218cea1c-e398-4e2e-b902-8c0f233ba2fa_balidea-logo.jpg",
+            "alt": "balidea logo.jpg"
           },
           "URL": "http://www.balidea.com"
         },
@@ -264,8 +250,8 @@
         "details": {
           "name": "Python - Score: 222/300",
           "image": {
-            "alt": "Title: Python - Score: 222/300",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/490939a8-f596-4746-b4a7-d35a595358d7_cuvhv.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/490939a8-f596-4746-b4a7-d35a595358d7_cuvhv.png",
+            "alt": "Title: Python - Score: 222/300"
           }
         },
         "type": "achievement",
@@ -282,28 +268,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "C#",
@@ -330,7 +307,7 @@
       },
       {
         "skill": {
-          "name": "TensorFlow",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -339,9 +316,31 @@
           "name": "Keras",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer science degree: computing speciality",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "Universidade de A Coruña (UDC)"
+        },
+        "finishDate": "2016-01-01"
+      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
@@ -352,25 +351,25 @@
         }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Scrum master",
-        "startDate": "2018-09-01",
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher Technical Certificate system administrator",
+        "startDate": "2009-09-01",
         "institution": {
-          "name": "Scrum manager",
-          "URL": "https://scrummanager.com/website/c/profile/member.php?id=24215"
-        }
+          "name": " Fernando Wirtz SuarezFernando Wirtz Suarez"
+        },
+        "finishDate": "2011-06-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "PHP Zend 5.3",
         "startDate": "2012-09-01",
-        "finishDate": "2012-09-30",
         "institution": {
           "name": "Zend by perforce",
           "URL": "http://www.zend.com/en/yellow-pages/ZEND020787"
         },
+        "finishDate": "2012-09-30",
         "linkedCompetences": [
           {
             "name": "PHP",
@@ -379,23 +378,33 @@
         ]
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Computer science degree: computing speciality",
-        "startDate": "2011-01-01",
-        "finishDate": "2016-01-01",
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scrum master",
+        "startDate": "2018-09-01",
         "institution": {
-          "name": "Universidade de A Coruña (UDC)"
+          "name": "Scrum manager",
+          "URL": "https://scrummanager.com/website/c/profile/member.php?id=24215"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Higher Technical Certificate system administrator",
-        "startDate": "2009-09-01",
-        "finishDate": "2011-06-01",
-        "institution": {
-          "name": " Fernando Wirtz SuarezFernando Wirtz Suarez"
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -404,12 +413,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/anbaalo/"
+          "URL": "https://www.linkedin.com/in/anbaalo/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/6228583/mandrewcito"
+          "URL": "https://stackoverflow.com/users/6228583/mandrewcito",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/mandrewcito",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/mandrewcito",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "anbaalo@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "646508106",
+          "countryCode": "+34"
         }
       ]
     },
@@ -467,6 +493,15 @@
         "Machine Learning Engineer",
         "Software Architect"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My ideal job would be a job related with software architecture and machine learning these are my two favourite topics on computer science. Solve problems and start an project architecture from scratch are the funnier job things for me.",
+    "projects": [
+      {
+        "name": "signalrcore"
+      }
+    ]
   }
 }
