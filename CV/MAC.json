@@ -29,6 +29,22 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/anbaalo/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/mandrewcito"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/mandrewcito"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/6228583/mandrewcito"
+      },
+      {
         "type": "other",
         "URL": "https://dev.to/mandrewcito/",
         "description": "Dev blog"
@@ -343,12 +359,35 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Data Science Master´s Degree",
         "startDate": "2021-02-01",
         "institution": {
           "name": "Universitat Oberta de Catalunya"
-        }
+        },
+        "finishDate": "2023-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Grafana",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Redis",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "officialDegree",
