@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -41,7 +41,7 @@
         "URL": "https://twitter.com/mandrewcito"
       },
       {
-        "type": "other",
+        "type": "stackoverflow",
         "URL": "https://stackoverflow.com/users/6228583/mandrewcito"
       },
       {
@@ -64,11 +64,11 @@
         },
         "roles": [
           {
-            "name": "Researcher",
+            "name": "Research and development Lead",
             "startDate": "2022-03-01",
             "challenges": [
               {
-                "description": "As researcher at DtBird my responsabilites are:\n- Making prototypes (react, fastapi and containers for me is the fastest way).\n- Evaluate feasibility of software solutions. \n- Configuring CI/CD of ML and non ML solutions (gitlab).\n- Create and improve performance of ML/CV solutions with keras/opencv."
+                "description": "As researcher at DtBird my responsabilites are:\n- Making prototypes (react, fastapi and containers for me is the fastest way).\n- Evaluate feasibility of software solutions. \n- Configuring CI/CD of ML and non ML solutions (gitlab).\n- Create and improve performance of ML/CV solutions with keras/opencv.\n- Research for new hardware acquisition\n\nAs development lead: \n- Organize tasks, priorities \n- CI/CD pipelines design \n- Think possible solutions of current tech challenges\n"
               }
             ],
             "competences": [
@@ -285,14 +285,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -470,12 +473,6 @@
       ],
       "contactMails": [
         "anbaalo@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "646508106",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
