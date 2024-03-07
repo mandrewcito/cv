@@ -308,6 +308,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -539,11 +545,19 @@
         "type": "technology"
       },
       {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
         "name": "JavaScript",
         "type": "technology"
       },
       {
         "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "TensorFlow",
         "type": "technology"
       }
     ],
